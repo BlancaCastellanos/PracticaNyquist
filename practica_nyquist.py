@@ -20,3 +20,6 @@ plt.show()
 
 decorate(xlabel="Tiempo (s)")
 decorate(ylabel="Amplitud")
+
+wave_seno_frecuencia_muestreo_baja.plot()
+plt.show()
